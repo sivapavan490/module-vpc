@@ -16,5 +16,5 @@ variable "enable_dns_hostnames" {
 
 variable "common_tags" {
   type = map
-  
+  # default = {}
 }

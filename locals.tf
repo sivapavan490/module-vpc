@@ -1,3 +1,3 @@
 locals{
-    resource_name="${var.var.project_name}-${var.var.environment}"
+    resource_name="${var.project_name}-${var.environment}"
 }
